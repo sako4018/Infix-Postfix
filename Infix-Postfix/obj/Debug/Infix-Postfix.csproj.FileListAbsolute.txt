@@ -1,0 +1,7 @@
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\bin\Debug\Infix-Postfix.exe.config
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\bin\Debug\Infix-Postfix.exe
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\bin\Debug\Infix-Postfix.pdb
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\obj\Debug\Infix-Postfix.csproj.AssemblyReference.cache
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\obj\Debug\Infix-Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\obj\Debug\Infix-Postfix.exe
+C:\Users\Sarkis\Desktop\visual studio\Infix-Postfix\Infix-Postfix\obj\Debug\Infix-Postfix.pdb
