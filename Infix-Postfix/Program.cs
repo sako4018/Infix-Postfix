@@ -9,6 +9,8 @@ namespace Infix_Postfix
 {
     internal class Program
     {
+        //mitko ne znae kakvo e VS
+         
         static void Main()
         {
             string notation = EnterExpression();
